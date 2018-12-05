@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">atividadeaula</string>
+    <string name="title_activity_tela2">tela2</string>
+    <string name="title_activity_tela3">tela3</string>
+    <string name="title_activity_frag1">frag1</string>
+    <string name="title_activity_frag2">frag2</string>
+    <string name="title_activity_frag3">frag3</string>
+    <string name="menu1_name">Menu 1</string>
+    <string name="menu2_name">Menu 2</string>
+</resources>
